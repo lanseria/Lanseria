@@ -19,7 +19,9 @@
 
 What's my favorite project now!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=awesome-cn-sampling-point-web)](https://github.com/lanseria/awesome-cn-sampling-point-web?theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=i-zhoushan-mp)](https://github.com/lanseria/i-zhoushan-mp?theme=radical)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=mapbox-draw-demo)](https://github.com/lanseria/mapbox-draw-demo?theme=radical)
 
 What's my favorite language now!
 
