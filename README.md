@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lanseria&show_icons=true&theme=gruvbox&locale=cn"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lanseria&show_icons=true&theme=gruvbox"/>
-</div>
+</div> -->
 
 <samp><b>Dotfiles</b></samp>
 
@@ -19,10 +19,10 @@
 
 What's my favorite project now!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=i-zhoushan-mp)](https://github.com/lanseria/i-zhoushan-mp?theme=radical)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=i-zhoushan-mp)](https://github.com/lanseria/i-zhoushan-mp?theme=radical) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=mapbox-draw-demo)](https://github.com/lanseria/mapbox-draw-demo?theme=radical)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lanseria&repo=mapbox-draw-demo)](https://github.com/lanseria/mapbox-draw-demo?theme=radical) -->
 
 What's my favorite language now!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanseria&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanseria&layout=compact)](https://github.com/anuraghazra/github-readme-stats?theme=radical) -->
